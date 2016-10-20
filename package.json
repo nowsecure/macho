@@ -1,5 +1,5 @@
 {
-  "name": "macho",
+  "name": "@nowsecure/macho",
   "version": "1.2.0",
   "description": "mach-o format parser",
   "main": "lib/macho.js",
